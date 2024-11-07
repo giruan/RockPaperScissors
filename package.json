@@ -13,6 +13,8 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://giruan.github.io/RockPaperScissors/",
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -22,8 +24,6 @@
     "deploy": "gh-pages -d build"
   },
 
-  "homepage": "https://giruan.github.io/RockPaperScissors/",
-  
   "eslintConfig": {
     "extends": [
       "react-app",

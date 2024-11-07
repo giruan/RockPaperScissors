@@ -3,7 +3,7 @@
 1. [react.js]를 이용하여 사이트를 제작합니다. 
 
 ## 완성작 보기 
-미리보기 : 
+미리보기 : https://giruan.github.io/RockPaperScissors/
 
 ## 사용 스택
 - react
@@ -27,3 +27,11 @@
 
 - 그후 "homepage"항목을 만들고 호스팅될 주소(이전 단계에서 만든 페이지의 주소)를 입력해준다.
 - EX: "homepage": "https://giruan.github.io/RockPaperScissors/",
+
+## 빌드와 배포
+
+- add, commit push로 깃에 업로드
+- 이후 npm run deploy
+
+- Github Page에서 Pages -> branch
+-  gh-pages라는 새 브랜치가 생긴다.
