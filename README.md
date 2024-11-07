@@ -35,3 +35,7 @@
 
 - Github Page에서 Pages -> branch
 -  gh-pages라는 새 브랜치가 생긴다.
+
+## 재배포
+
+- npm run deploy
